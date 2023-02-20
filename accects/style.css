@@ -462,7 +462,7 @@ transform: scale(1.1)
 .footer h4{
  text-align: center;
  padding-top: 2rem;
- color: #3C9379;
+ color: #black;
  font-weight: 100;
  letter-spacing: 2px;
  text-decoration: underline;
@@ -471,5 +471,8 @@ transform: scale(1.1)
     .footer-condainer{
         display: block;
         padding-top: 1rem;
+    }
+    .footer h4{
+        font-size: 10px;
     }
 }
