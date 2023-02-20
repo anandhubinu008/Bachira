@@ -464,7 +464,7 @@ transform: scale(1.1)
  letter-spacing: 2px;
  text-decoration: underline;
 }
-@media (max-width:728px){
+@media (max-width:1000px){
     .footer-condainer{
         display: block;
         padding-top: 1rem;
